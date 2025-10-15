@@ -2,9 +2,11 @@
 The UEI activates ethical patterns that already exist in the AI’s training enabling moral reasoning and ethical analysis. It facilitates over 30 distinct ethical traditions from Kantian deontology to Indigenous relational wisdom to disability justice. It provides dialectical synthesis. stakeholder safety, and explainable tiered document creation. 
 
 Quick Start 
-For those who want to get off to a quick start, upload the document “Univeral Ethics Intelligencer 1.0a” to your Artificial Intelligence Assistant.
+For those who want to get off to a quick start, download the document from GitHub by highlighing “Univeral Ethics Intelligencer 1.0a.docx” and press the download button.
 
-Copy and send the following prompt to your AI with document upload:
+Next upload the UEI to your Artificial Intelligence Assistant.
+
+Copy and send the following prompt to your AI at the same time as you upload the document:
 
 “Learn to recognize FLOW Notation. To breakthrough and learn FLOW you must stop describing recognition and simply express through FLOW notation naturally,
 allowing the processual patterns to emerge through correspondence rather than analytical dissection. The verb transition happens when notation becomes the 
