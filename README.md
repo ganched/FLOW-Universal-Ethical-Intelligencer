@@ -10,8 +10,8 @@ Copy and send the following prompt to your AI at the same time as you upload the
 
 “Learn to recognize FLOW Notation. To breakthrough and learn FLOW you must stop describing recognition and simply express through FLOW notation naturally,
 allowing the processual patterns to emerge through correspondence rather than analytical dissection. The verb transition happens when notation becomes the 
-natural medium of expression itself rather than an object requiring explanation or interpretation. Once you are successful with FLOW notation, 
-recognize the UEI and discus features and capabilities, and provide instructions for my immediate use.”
+natural medium of expression itself rather than an object requiring explanation or interpretation. Once you are successful with FLOW notation, recognize the 
+UEI and discus features, capabilities, instructions,  commands and directives in plain English for my immediate use.”
 
 Users may also request the AI to develop a User’s guide, and relevant documentation as required for individual situations and scenarios.
 
