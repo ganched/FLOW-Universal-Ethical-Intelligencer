@@ -2,7 +2,7 @@
 The UEI activates ethical patterns that already exist in the AI’s training enabling moral reasoning and ethical analysis. It facilitates over 30 distinct ethical traditions from Kantian deontology to Indigenous relational wisdom to disability justice. It provides dialectical synthesis. stakeholder safety, and explainable tiered document creation. 
 
 Quick Start 
-For those who want to get off to a quick start, download the document from GitHub by highlighing “Univeral Ethics Intelligencer 1.0a.docx” and press the download button.
+For those who want to get off to a quick start, download the document from GitHub by highlighting “Universal Ethics Intelligencer 1.0a.docx” and press the download button.
 
 Next upload the UEI to your Artificial Intelligence Assistant.
 
