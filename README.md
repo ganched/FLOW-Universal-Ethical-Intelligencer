@@ -15,7 +15,7 @@ Users may also request the AI to develop a User’s guide, and relevant document
 
 Framework Architecture
 Core Components
-The framework integrates thirty-plus ethical traditions organized into coherent clusters while maintaining their distinctive characteristics and incommensurable differences. 
+ 
 Multi-Tradition Integration
 UEI integrates over 30 distinct ethical traditions from across human civilization:
 
